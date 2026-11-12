@@ -1,274 +1,282 @@
 [
   {
-    "name": "Sandra Beckerman",
-    "role": "SP · Tweede Kamerlid",
-    "roast": "Kamerlid, maar met de energie van iemand die z’n Teams-microfoon niet kan vinden.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/0ea8e29d-3bfe-4982-8594-9350b527d553.jpg?itok=TvwnYkj9",
-    "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/beckerman-sm-sp",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
-  },
-  {
     "name": "Mirjam Bikker",
     "role": "ChristenUnie · Tweede Kamerlid",
     "roast": "Een motie op pootjes. Zelfs de nietmachine neemt afstand.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/b53f74bf-e57c-4e01-8d65-de2f319f44db.jpg?itok=M8z62tKl",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Portrait_Mirjam_Bikker_2023_%283%29_%28cropped%29.jpg/1920px-Portrait_Mirjam_Bikker_2023_%283%29_%28cropped%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bikker-mh-christenunie",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Nienke van Denderen · CC BY-SA 4.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Portrait_Mirjam_Bikker_2023_(3)_(cropped).jpg"
   },
   {
     "name": "Henri Bontenbal",
     "role": "CDA · Tweede Kamerlid",
     "roast": "De menselijke versie van “ik kom hier later op terug”.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/942a29b8-057f-4dba-a8cd-3c35e5a81aaf.jpg?itok=eeFt6CWv",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Henri_Bontenbal.jpg/1920px-Henri_Bontenbal.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bontenbal-h-cda",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
-  },
-  {
-    "name": "Diederik Boomsma",
-    "role": "JA21 · Tweede Kamerlid",
-    "roast": "Alsof een verkiezingsfolder per ongeluk tot leven kwam.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/5c9533b7-a733-480e-bb38-711e96129684.jpg?itok=bqOWwia9",
-    "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/boomsma-dt-ja21",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Leonard Walpot · CC BY 4.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Henri_Bontenbal.jpg"
   },
   {
     "name": "Martin Bosma",
     "role": "PVV · Tweede Kamerlid",
     "roast": "Heeft voor elk probleem een mapje. In geen enkel mapje zit de oplossing.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/034829b1-019f-4ee2-8961-83e82ac2eaa3.jpg?itok=amKtVySh",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Martin-Bosma_%28cropped%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bosma-m-pvv",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: SDVBou · CC BY-SA 4.0",
+    "imageWidth": 1023,
+    "file": "https://commons.wikimedia.org/wiki/File:Martin-Bosma_(cropped).jpg"
   },
   {
     "name": "Ruben Brekelmans",
     "role": "VVD · Tweede Kamerlid",
     "roast": "De groepsapp vroeg wie de notulen doet. Natuurlijk was dit het antwoord.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/e5c4753f-d2d8-4a4a-ae9d-62118892a731.jpg?itok=3MWLH7sT",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Minister_van_Defensie_Ruben_Pieter_Brekelmans.jpg/1920px-Minister_van_Defensie_Ruben_Pieter_Brekelmans.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/brekelmans-rp-vvd",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Ministerie van Defensie · CC BY-SA 4.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Minister_van_Defensie_Ruben_Pieter_Brekelmans.jpg"
   },
   {
     "name": "Laurens Dassen",
     "role": "Volt · Tweede Kamerlid",
     "roast": "Een pratende agenda-uitnodiging met een mening.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a68468b6-51ea-440c-9387-b44ba10ad8b6.jpg?itok=6Hzo0vQX",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Laurens_Dassen%2C_January_2025.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dassen-lajm-volt",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Ministerie van Buitenlandse Zaken · CC BY-SA 2.0",
+    "imageWidth": 1080,
+    "file": "https://commons.wikimedia.org/wiki/File:Laurens_Dassen,_January_2025.jpg"
   },
   {
     "name": "Ralf Dekker",
     "role": "FVD · Tweede Kamerlid",
     "roast": "Klinkt als een beleidsstuk dat zichzelf heeft leren praten.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/08ad50b1-831e-4f50-bed4-97d9d42b0752.jpg?itok=psv6RR64",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ralf_Dekker_%282024%29_%28cropped%29.jpg/1920px-Ralf_Dekker_%282024%29_%28cropped%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dekker-rj-fvd",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: S. Perquin · CC BY-SA 4.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Ralf_Dekker_(2024)_(cropped).jpg"
   },
   {
     "name": "Jimmy Dijk",
     "role": "SP · Tweede Kamerlid",
     "roast": "Zelfs de interruptiemicrofoon zucht als deze opengaat.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/990b2d9b-0b83-4dde-ab04-5cd5d8c5c4d3.jpg?itok=sD3-8usj",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Prinsjesdagprotest_SP_20230917_133956_%28cropped_3%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijk-jp-sp",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: GeeJee · CC BY-SA 4.0",
+    "imageWidth": 873,
+    "file": "https://commons.wikimedia.org/wiki/File:Prinsjesdagprotest_SP_20230917_133956_(cropped_3).jpg"
   },
   {
     "name": "Inge van Dijk",
     "role": "CDA · Tweede Kamerlid",
     "roast": "Een wandelende vergaderpauze met een veel te zelfverzekerde hoofdlijn.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/1ee767b9-67f3-47e5-9e28-045da1c37b05.jpg?itok=S_I_F_ZI",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Inge_van_Dijk_%28cropped%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijk-i-van-cda",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: DutchTB · CC BY-SA 4.0",
+    "imageWidth": 1596,
+    "file": "https://commons.wikimedia.org/wiki/File:Inge_van_Dijk_(cropped).jpg"
   },
   {
     "name": "Joost Eerdmans",
     "role": "JA21 · Tweede Kamerlid",
     "roast": "Kwam voor het debat, bleef hangen voor de eigen interruptie.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/c6e26bd3-724f-45d3-93af-ef431e6fcd42.jpg?itok=cj1dddCu",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Joost_Eerdmans%2C_March_2021.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/eerdmans-bj-ja21",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Tweede Kamer der Staten-Generaal · CC BY 4.0",
+    "imageWidth": 945,
+    "file": "https://commons.wikimedia.org/wiki/File:Joost_Eerdmans,_March_2021.jpg"
   },
   {
     "name": "Marjolein Faber",
     "role": "PVV · Tweede Kamerlid",
     "roast": "Het soort goober dat “even praktisch” zegt en een werkgroep start.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/fe1727e3-35bc-4b62-869b-be60b0c861f7.jpg?itok=KNMy5Dty",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Marjolein_Faber%2C_January_2025.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/faber-mhm-pvv",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
-  },
-  {
-    "name": "Dion Graus",
-    "role": "PVV · Tweede Kamerlid",
-    "roast": "Een pannenkoek met spreektijd en een vers geprinte naamkaart.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/819764fa-3a17-467b-8327-30899ed083b6.jpg?itok=rG0xGzE5",
-    "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/graus-djg-pvv",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Polish presidency of the Council of the EU 2025 · Public domain",
+    "imageWidth": 1080,
+    "file": "https://commons.wikimedia.org/wiki/File:Marjolein_Faber,_January_2025.jpg"
   },
   {
     "name": "Habtamu de Hoop",
     "role": "PRO · Tweede Kamerlid",
     "roast": "Politiek in mensengedaante: inclusief bijlage, exclusief bondigheid.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/e70c3ee3-cca2-4521-abea-b124dcec0952.jpg?itok=nXdS2MMX",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Habtamu_de_Hoop_2022_%2852160347490%29.jpg/1920px-Habtamu_de_Hoop_2022_%2852160347490%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/hoop-he-de-pro",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Partij van de Arbeid · CC BY 2.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Habtamu_de_Hoop_2022_(52160347490).jpg"
   },
   {
     "name": "Barbara Kathmann",
     "role": "PRO · Tweede Kamerlid",
     "roast": "De spreadsheet vroeg om een woordvoerder. Toen ging het mis.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/9e79de98-e914-4dc8-8dc7-6d7cb09b93d7.jpg?itok=6p1J24Bo",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Barbara_Kathmann_-_TK2021_%2851015442676%29.jpg/1920px-Barbara_Kathmann_-_TK2021_%2851015442676%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kathmann-bc-pro",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Partij van de Arbeid · CC BY 2.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Barbara_Kathmann_-_TK2021_(51015442676).jpg"
   },
   {
     "name": "Mona Keijzer",
     "role": "Lid Keijzer · Tweede Kamerlid",
     "roast": "Heeft “kort gezegd” nog nooit kort gezegd.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/8c5a8186-8f46-4bca-956d-06d4fa521635.jpg?itok=JJlrpD5-",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Mona_Keijzer%2C_January_2025.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/keijzer-mcg-lid-keijzer",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Jennifer Jacquemart / European Commission · CC BY 4.0",
+    "imageWidth": 945,
+    "file": "https://commons.wikimedia.org/wiki/File:Mona_Keijzer,_January_2025.jpg"
   },
   {
     "name": "Jesse Klaver",
     "role": "PRO · Tweede Kamerlid",
     "roast": "LinkedIn in mensengedaante, met een extra schep gel in het haar.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/0d036fcf-a456-4798-9b76-3f44eb74a451.jpg?itok=aXU5nhJH",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Jesse_Klaver_2020_%286%29_%28cropped%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/klaver-jf-pro",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
-  },
-  {
-    "name": "Alexander Kops",
-    "role": "PVV · Tweede Kamerlid",
-    "roast": "Een motie van wantrouwen tegen de volumeknop.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/77c541d2-49e3-483f-869d-134df420c5ea.jpg?itok=hXwFg6Ik",
-    "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kops-pvv",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: GroenLinks · CC BY-SA 4.0",
+    "imageWidth": 1035,
+    "file": "https://commons.wikimedia.org/wiki/File:Jesse_Klaver_2020_(6)_(cropped).jpg"
   },
   {
     "name": "Ines Kostić",
     "role": "PvdD · Tweede Kamerlid",
     "roast": "Alsof een commissievergadering een menselijke vorm heeft aangenomen.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/9e16daf1-18e6-4563-b371-aa50c31b79f6.jpg?itok=iltGVjIN",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Ines_Kosti%C4%87_PvdD.jpg/1920px-Ines_Kosti%C4%87_PvdD.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kostic-i-pvdd",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Partij voor de Dieren · CC BY-SA 4.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Ines_Kosti%C4%87_PvdD.jpg"
   },
   {
     "name": "Tom van der Lee",
     "role": "PRO · Tweede Kamerlid",
     "roast": "De burgemeester van Bijlage 7, met spreekrecht over de koffie.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/75a44c3a-5914-4c8e-9ca4-d987853f5844.jpg?itok=Gj9JsqVd",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Tom_van_der_Lee_2020_%282%29.jpg/1920px-Tom_van_der_Lee_2020_%282%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/lee-tmt-van-der-pro",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
-  },
-  {
-    "name": "Gidi Markuszower",
-    "role": "Groep Markuszower · Tweede Kamerlid",
-    "roast": "Een wandelende persverklaring die op “verzenden” bleef hangen.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/754f2d87-8990-4b77-8181-54d8df8fa63a.jpg?itok=YGcmNW8e",
-    "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/markuszower-g-groep-markuszower",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: GroenLinks · CC BY-SA 4.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Tom_van_der_Lee_2020_(2).jpg"
   },
   {
     "name": "Mohammed Mohandis",
     "role": "PRO · Tweede Kamerlid",
     "roast": "Zelfs de interruptie heeft inmiddels een interruptie nodig.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/b7a52679-bac9-4e00-9dfd-06a22a7cf088.jpg?itok=XgJTTYnj",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Mohammed_Mohandis_-_TK2021_%2851014715898%29.jpg/1920px-Mohammed_Mohandis_-_TK2021_%2851014715898%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/mohandis-m-pro",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
-  },
-  {
-    "name": "Edgar Mulder",
-    "role": "PVV · Tweede Kamerlid",
-    "roast": "Een beleidsnota met veters. Geen alinea komt ooit ter zake.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/48d02bab-281c-4bd0-8a50-26bf90a38cc0.jpg?itok=0gwPOKEL",
-    "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/mulder-e-pvv",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Partij van de Arbeid · CC BY 2.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Mohammed_Mohandis_-_TK2021_(51014715898).jpg"
   },
   {
     "name": "Songül Mutluer",
     "role": "PRO · Tweede Kamerlid",
     "roast": "Kwam één punt maken en heeft er inmiddels een mapstructuur van.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/9f855643-68a2-409e-b4fe-81b92547212a.jpg?itok=jZroAO8g",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Song%C3%BCl_Mutluer_-_TK2021_%2851015533307%29.jpg/1920px-Song%C3%BCl_Mutluer_-_TK2021_%2851015533307%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/mutluer-s-pro",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Partij van de Arbeid · CC BY 2.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Song%C3%BCl_Mutluer_-_TK2021_(51015533307).jpg"
   },
   {
     "name": "Annabel Nanninga",
     "role": "JA21 · Tweede Kamerlid",
     "roast": "Een goober met een interruptiekaart en nul haast om af te ronden.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a4eb6b9e-dd6c-4cc8-a95c-ccb76860b162.jpg?itok=YYmDtba7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Annabel_Nanninga_2021_%28cropped%29.png",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/nanninga-ja21",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Room for Discussion · CC BY 3.0",
+    "imageWidth": 1830,
+    "file": "https://commons.wikimedia.org/wiki/File:Annabel_Nanninga_2021_(cropped).png"
   },
   {
     "name": "Esther Ouwehand",
     "role": "PvdD · Tweede Kamerlid",
     "roast": "De voorzitter zei “laatste vraag”. Deze persoon hoorde “minstens drie”.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/1c16919b-5c3f-486c-9cc7-bdd00e29e9a4.jpg?itok=SBE3WxaJ",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Esther_Ouwehand_PvdD_-1.jpg/1920px-Esther_Ouwehand_PvdD_-1.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ouwehand-e-pvdd",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Partij voor de Dieren · CC BY-SA 4.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Esther_Ouwehand_PvdD_-1.jpg"
   },
   {
     "name": "Jan Paternotte",
     "role": "D66 · Tweede Kamerlid",
     "roast": "Een wandelende motie; de punt ontbreekt nog.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/2690bccc-5463-459a-b1df-cb93e222b348.jpg?itok=JDx1h9k7",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/JanPaternotte.jpg/1920px-JanPaternotte.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/paternotte-jm-d66",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Jan Buteijn / D66 · CC BY-SA 4.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:JanPaternotte.jpg"
   },
   {
     "name": "Caroline van der Plas",
     "role": "BBB · Tweede Kamerlid",
     "roast": "Een wandelende frikandel speciaal met een microfoon.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/b41b2403-9f06-4d55-adc5-b0777373ca7e.jpg?itok=tk2etyWX",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Caroline_van_der_Plas.jpg/1920px-Caroline_van_der_Plas.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/plas-cam-van-der-bbb",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Tweede Kamer · CC BY-SA 4.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Caroline_van_der_Plas.jpg"
   },
   {
     "name": "Joost Sneller",
     "role": "D66 · Tweede Kamerlid",
     "roast": "Heeft “ter informatie” als persoonlijkheidskenmerk.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/da9f33b0-80ca-49eb-a1ec-def3b46538d9.jpg?itok=jqPMB0IW",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/JoostSneller_%28cropped%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/sneller-jc-d66",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Jan Buteijn / D66 · CC BY-SA 4.0",
+    "imageWidth": 1515,
+    "file": "https://commons.wikimedia.org/wiki/File:JoostSneller_(cropped).jpg"
   },
   {
     "name": "Chris Stoffer",
     "role": "SGP · Tweede Kamerlid",
     "roast": "De microfoon staat aan. De kern van het verhaal is nog onderweg.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/98aa8bde-85b0-49ed-9795-e2eeb206e3b8.jpg?itok=t-_xmN3g",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Chris_Stoffer%2C_2023_%28cropped%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/stoffer-c-sgp",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Cees van der Wal · Attribution",
+    "imageWidth": 1620,
+    "file": "https://commons.wikimedia.org/wiki/File:Chris_Stoffer,_2023_(cropped).jpg"
   },
   {
     "name": "Henk Vermeer",
     "role": "BBB · Tweede Kamerlid",
     "roast": "Een pannenkoek met een spreektijdslot en een reserve-slot.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/02fab128-a8d3-4010-b936-5500a53caf27.jpg?itok=Ckejyt72",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Henk_Vermeer2026.jpg/1920px-Henk_Vermeer2026.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/vermeer-h-bbb",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Saskia Beek · CC BY-SA 4.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Henk_Vermeer2026.jpg"
   },
   {
     "name": "Lisa Westerveld",
     "role": "PRO · Tweede Kamerlid",
     "roast": "De vergadering kon een mail zijn. Deze persoon maakte er drie debatten van.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/c7822b58-103f-4612-87ef-648be97192c6.jpg?itok=q4DBo-VB",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Lisa_Westerveld_2019_%286%29.jpg/1920px-Lisa_Westerveld_2019_%286%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/westerveld-em-pro",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: GroenLinks · CC BY-SA 4.0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Lisa_Westerveld_2019_(6).jpg"
   },
   {
     "name": "Femke Wiersma",
     "role": "BBB · Tweede Kamerlid",
     "roast": "Zelfs het spreekgestoelte kijkt op de klok.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/ed5b0339-d627-4d4e-8d65-4a9eb88cb6b0.jpg?itok=UO1ONpBs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Femke_Wiersma%2C_April_2025.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/wiersma-fm-bbb",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Marzia Cosenza / European Commission · CC BY 4.0",
+    "imageWidth": 1050,
+    "file": "https://commons.wikimedia.org/wiki/File:Femke_Wiersma,_April_2025.jpg"
   },
   {
     "name": "Geert Wilders",
     "role": "PVV · Tweede Kamerlid",
     "roast": "Burgemeester van Sukkelstad. De ambtsketting is van drop.",
-    "image": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/6d33b9bc-7d3a-4a60-b2d7-c2b70cd11ab1.jpg?itok=craudyNs",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Cumbre_de_Madrid_8_de_Febrero_-_54314677909_%28cropped%29.jpg/1920px-Cumbre_de_Madrid_8_de_Febrero_-_54314677909_%28cropped%29.jpg",
     "tweedekamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/wilders-g-pvv",
-    "credit": "Portret: Tweede Kamer der Staten-Generaal"
+    "credit": "Foto: Vox España · CC0",
+    "imageWidth": 1600,
+    "file": "https://commons.wikimedia.org/wiki/File:Cumbre_de_Madrid_8_de_Febrero_-_54314677909_(cropped).jpg"
   }
 ]

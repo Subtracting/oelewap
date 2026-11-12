@@ -1,6 +1,6 @@
 # Oelewappers
 
-Profiles live in `src/politicians.json`; names, parties, and portraits were matched against the official [current Tweede Kamer members list](https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden). To keep the page accurate when membership changes, refresh this small list from that source.
+Oelewappers shuffles through 28 current Tweede Kamer members. Portraits use high-resolution Wikimedia Commons photos (at least 873 px wide), with photographer, licence, and source linked on each page. The members are matched against the official [current Tweede Kamer list](https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden).
 
 ## Run locally
 
