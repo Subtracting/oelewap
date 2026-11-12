@@ -52,7 +52,7 @@ if (!profile) {
             <a class="button" href="/" aria-label="Bekijk een andere politicus" title="Een ander gezicht, ook met spatie"><span>Volgende wapper</span><span class="arrow" aria-hidden="true">↗</span></a>
             <span class="refresh-hint"><kbd>↻</kbd> of ververs de pagina</span>
           </div>
-          <div class="source"><span class="source-label">PORTRET</span><a href="${profile.file}" target="_blank" rel="noreferrer">${profile.credit}<span aria-hidden="true"> ↗</span></a></div>
+          <div class="source"><span class="source-label">KAMERPROFIEL</span><a href="${profile.tweedekamer}" target="_blank" rel="noreferrer">${profile.credit}<span aria-hidden="true"> ↗</span></a></div>
         </div>
       </section>
 

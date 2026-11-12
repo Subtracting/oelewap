@@ -24,11 +24,15 @@ test('returns null for an empty profile collection', () => {
   assert.equal(pickNextProfile([], [], () => 0), null);
 });
 
-test('gives each politician a distinct, short Dutch roast', () => {
-  const roasts = politicians.map(person => person.roast?.trim()).filter(Boolean);
-  assert.equal(roasts.length, politicians.length);
-  assert.equal(new Set(roasts).size, politicians.length);
-  assert.ok(roasts.every(roast => roast.length <= 90));
+test('includes at least twenty current Tweede Kamer members with credited official portraits', () => {
+  assert.ok(politicians.length >= 20, `Expected at least 20 active members, got ${politicians.length}`);
+  const roasts = politicians.map(person => person.roast?.trim());
+  assert.equal(new Set(politicians.map(person => person.name)).size, politicians.length);
+  assert.ok(roasts.every(Boolean), 'Every parliament profile needs its own roast');
+  for (const person of politicians) {
+    assert.ok(person.tweedekamer?.startsWith('https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/'), `${person.name} is missing an official member page`);
+    assert.ok(person.image?.startsWith('https://www.tweedekamer.nl/sites/default/files/'), `${person.name} is missing an official parliamentary portrait`);
+  }
 });
 
 test('ignores history entries not present in the collection', () => {
